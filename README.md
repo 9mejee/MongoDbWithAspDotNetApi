@@ -1,5 +1,7 @@
 # MongoDbWithAspDotNetApi
 
+.NET 7
+
 Step 1: download the mongo db community server msi service for window from the link https://fastdl.mongodb.org/windows/mongodb-windows-x86_64-7.0.0-signed.msi
 Step 2: download the mongo db compass from the link https://downloads.mongodb.com/compass/mongodb-compass-1.39.2-win32-x64.exe
 Step 3: open mongodb compass and click to connect example below
